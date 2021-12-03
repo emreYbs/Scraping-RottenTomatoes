@@ -1,5 +1,5 @@
 # Scraping-RottenTomatoes
-A Jupyter Notebook I did as a Homework in an Udemy WebScraping Course
+_A Jupyter Notebook I did as a Homework in an Udemy WebScraping Course_
 
 I also wrote a Python script and it asks for an user input, so I can give URL I want for the RottenTomatoes Website. But for data analysis and for hobby, I prefer the Jupyter version. After getting this course about WebScraping, as an homework, we were supposed to write this script.Later, I also went on improving on this task and doing some analysis for my interest since I'm keen on cinema.
 
