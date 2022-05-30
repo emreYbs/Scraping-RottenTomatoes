@@ -1,4 +1,6 @@
-#EmreYbs
+#emreYbs
+#Python Script version of Rotten Tomatoes Best Horror Movies.py
+#You can find other versions in my repo
 
 # To add a new cell, type '# %%'
 # To add a new markdown cell, type '# %% [markdown]'
